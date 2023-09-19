@@ -9,7 +9,7 @@ Random Generated Map
 
 Resource Management
 
-Basic Rendering (shadow, camere .etc)
+Basic Rendering (shadow, camera .etc)
 
 Various Kinds of Barrier
 
